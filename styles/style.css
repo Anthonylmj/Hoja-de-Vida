@@ -29,7 +29,7 @@ th{
 
 fieldset{
     border-color: #0a99c5;
-    margin-top: 1em;
+    margin-top: 2em;
     background-color: #F2F2F2;
 }
 
@@ -45,7 +45,7 @@ legend{
 #presentacion{
     margin: 5px;
     width: 21em;
-    height: 1100;
+    height: 2030;
     float: left;
   
     background-color: #2bbbe7;
@@ -99,4 +99,9 @@ th, td {
 
   table {
     border-spacing: 10px;
+  }
+
+  img.centrar{
+    text-align: center;
+
   }
